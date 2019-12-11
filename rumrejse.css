@@ -1,0 +1,74 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color: #000;
+	color: #C5FBFA;
+}
+
+header{
+	
+}
+
+ul li{
+	list-style: none;
+}
+
+a{
+	text-decoration: none;
+	color: #C5FBFA;
+}
+
+article{
+	text-align: center;
+	margin-bottom: 110px;	
+}
+
+.overskrift{
+	display: flex;
+}
+
+.planettekst{
+	width: 33.333%;
+	text-align: center;
+}
+
+.planetflex{
+	display: flex;
+}
+
+.planeter{
+	width: 100%;
+	margin-bottom: 110px;
+}
+
+.brodtekst{
+	margin: 2% 0 2% 2%;
+}
+
+.footer {
+  padding: 10px;
+  color: #AAB4BF;
+}
+
+/*--------------------------------VELVET SURPRISE---------------------------------------*/
+
+.velvet_billede{
+	float: right;
+	width: 40%;
+}
+
+
+/*--------------------------------TAU-CETIE---------------------------------------*/
+
+.billedetekst_tau{
+	width: 50%;
+	margin: 2% 0 2% 2%;
+}
+
+/*--------------------------------CYAN-44B---------------------------------------*/
+
+.billedetekst_tau{
+	width: 50%;
+	margin: 2% 0 2% 2%;
+}
